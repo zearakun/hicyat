@@ -1,1 +1,1 @@
-from hicyat.cyber import *
+from .cyber import *
