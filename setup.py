@@ -4,6 +4,6 @@ setup(
     name='hicyat',
     description="requests extension package hicyat",
     version='0.0.1',
-    packages=find_packages()
+    packages=find_packages(),
     author="Za"
 )
