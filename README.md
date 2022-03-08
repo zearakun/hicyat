@@ -9,5 +9,5 @@ from hicyat import cyber
 url = input('URLを貼ってください')
 sleep = float(input('一回のリクエストでかかる遅延'))
 
-hicyat.at(url,sleep)
+hicyatat(url,sleep)
 ```
